@@ -52,8 +52,8 @@ const Home = () => {
               height="600px"
               width="600px"
               className="rounded-[14px]"
-              src="/src/assets/images/cover.jpg"
-              alt=""
+              src="https://i.ibb.co/W3V5PMY/cover.jpg"
+              alt="Unfortunately Borken"
             />
           </div>
         </div>

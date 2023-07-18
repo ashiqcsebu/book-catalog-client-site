@@ -64,7 +64,7 @@ const Signup = () => {
                   height="65px"
                   width="65px"
                   className="mx-auto"
-                  src="https://www.cityofsachse.com/ImageRepository/Document?documentID=7216"
+                  src="https://i.ibb.co/YLKg7C0/signup.jpg"
                   alt="logo"
                 />
               </div>

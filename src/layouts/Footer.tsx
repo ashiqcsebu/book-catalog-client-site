@@ -7,7 +7,7 @@ export default function Footer() {
     <div className="bg-[#242630] text-white p-20">
       <div className="flex justify-between">
         <div>
-          <img className="h-20" src="https://www.cityofsachse.com/ImageRepository/Document?documentID=7216" alt="Logo" />
+          <img className="h-20" src="https://i.ibb.co/HGWmTcv/logo.png" alt="Logo" />
         </div>
         <div className="flex gap-20">
           <ul className="space-y-2">

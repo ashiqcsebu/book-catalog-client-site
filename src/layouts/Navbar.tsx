@@ -35,7 +35,7 @@ const Navbar = () => {
               <img
                 height="45px"
                 width="45px"
-                src="https://www.cityofsachse.com/ImageRepository/Document?documentID=7216"
+                src="https://i.ibb.co/HGWmTcv/logo.png"
                 alt="logo"
               />
             </div>
