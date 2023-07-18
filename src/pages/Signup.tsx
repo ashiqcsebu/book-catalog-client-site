@@ -52,7 +52,7 @@ const Signup = () => {
       <div
         className="min-h-screen flex items-center justify-center bg-cover bg-center"
         style={{
-          backgroundImage: "url('/src/assets/images/signup.jpg')"
+          backgroundImage: "url(https://i.ibb.co/YLKg7C0/signup.jpg)"
         }}
         
       >
@@ -64,7 +64,8 @@ const Signup = () => {
                   height="65px"
                   width="65px"
                   className="mx-auto"
-                  src="https://i.ibb.co/YLKg7C0/signup.jpg"
+                  src="https://i.ibb.co/HGWmTcv/logo.png"
+                 
                   alt="logo"
                 />
               </div>
