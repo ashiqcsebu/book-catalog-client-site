@@ -1,5 +1,4 @@
-Frontend Live URL: https://library-catalog-me.netlify.app
+## Deployed Frontend Live Link : https://book-catalog-application.netlify.app/
 
-Frontend Repository: https://github.com/MD-Mehedi-Hasan18111/book-catalog-client
-
-Backend Server Repository: https://github.com/MD-Mehedi-Hasan18111/book-catalog-server
+## Your Frontend Github Repository Link: https://github.com/ashiqcsebu/book-catalog-client-site
+## Your Backend Github Repository Link : https://github.com/ashiqcsebu/book-catalog-server
